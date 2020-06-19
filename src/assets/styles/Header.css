@@ -1,0 +1,134 @@
+.header {
+  position: fixed;
+  z-index: 5;
+  width: 100vw;
+  /* border-top: 20px solid #be9335; */
+}
+.header .upper-menu {
+  height: fit-content;
+  background-color: #fff;
+  display: grid;
+  grid-template-columns: 25% 50% 25%;
+  padding: 0px 2% 0px 2%;
+}
+.header .first-block {
+  text-align: left;
+}
+.header #first-block-text {
+  font-size: 14px;
+  font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue",
+    Helvetica, Arial, "Lucida Grande", sans-serif;
+  color: #424242;
+  /* margin-inline-end: 15px; */
+  /* margin-block-start: 5px; */
+}
+.header #fa-icon {
+  font-size: 22px;
+  color: #be9335;
+  padding-right: 4%;
+}
+
+.header #fa-icon:hover {
+  color: #424242;
+  cursor: pointer;
+}
+.header .second-block {
+  text-align: center;
+  margin: 0px auto;
+}
+.header .logo {
+  width: 60%;
+  cursor: pointer;
+}
+.header .third-block {
+  text-align: right;
+}
+.header .third-block-upper-div-grid {
+  float: right;
+  display: grid;
+  grid-template-columns: auto 10% 10%;
+  width: 100%;
+  margin-bottom: 2%;
+}
+.header #fa-icon-third-block {
+  /* border: 1px solid red; */
+  font-size: 24px;
+  color: #be9335;
+  padding-left: 1%;
+  margin-block-start: 0.5em;
+}
+.header #fa-icon-third-block:hover {
+  color: #424242;
+  cursor: pointer;
+}
+/*Resize the wrap to see the search bar change!*/
+.header .wrap {
+  width: 100%;
+}
+.header .search {
+  width: 90%;
+  float: right;
+  display: flex;
+  border: 1px solid #525252;
+}
+.header .search-box {
+  width: 100%;
+  height: 4vh;
+  outline: none;
+  color: #424242;
+  border: none;
+  font-size: 14px;
+  padding: 2%;
+}
+
+.header .search-box:focus {
+  outline: none;
+  border: none;
+}
+.header #fa-icon-search {
+  font-size: 22px;
+  color: #525252;
+  margin: auto;
+}
+.header #fa-icon-search:hover {
+  color: #be9335;
+  outline: none;
+}
+.header .search-button {
+  border: none;
+  width: fit-content;
+  height: 4vh;
+  background: #fff;
+  text-align: center;
+  color: #fff;
+  cursor: pointer;
+  padding: 2%;
+}
+.header .search-button:focus {
+  color: aqua;
+}
+.header .menu {
+  background-color: #fff;
+  height: 6vh;
+  width: 100%;
+  padding-top: 0.8%;
+  padding-bottom: 0.8%;
+  display: grid;
+  grid-template-columns: auto auto auto auto auto auto auto;
+}
+
+.menu a {
+  font-size: 14px;
+  font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue",
+    Helvetica, Arial, "Lucida Grande", sans-serif;
+  color: #424242;
+  text-decoration: none;
+  text-align: center;
+  margin: auto;
+  font-weight: lighter;
+  text-transform: uppercase;
+}
+
+.menu a:hover {
+  color: #be9335;
+}
