@@ -13,7 +13,7 @@ export default class Header extends Component {
               </p>
               <p id="first-block-text">
                 <i className="fa fa-phone" id="fa-icon"></i>
-                +91-86359 26559
+                +91-90043 71144
               </p>
             </div>
             <div className="second-block">
