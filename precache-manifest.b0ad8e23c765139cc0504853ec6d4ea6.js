@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "7c8c0e1171a67c50c4de568aaea88e30",
+    "revision": "f180f891a450e0def97ee0b222a493d1",
     "url": "/coalbrass-fashions/index.html"
   },
   {
-    "revision": "56e411dd6496de4673ab",
-    "url": "/coalbrass-fashions/static/css/2.e059fb1c.chunk.css"
+    "revision": "deb6f313489cc0c498bc",
+    "url": "/coalbrass-fashions/static/css/2.c1ae44fe.chunk.css"
   },
   {
-    "revision": "6cf0ff137b8a450941f0",
-    "url": "/coalbrass-fashions/static/css/main.ee61b736.chunk.css"
+    "revision": "2274ef6021a0c46a68b7",
+    "url": "/coalbrass-fashions/static/css/main.2f40227b.chunk.css"
   },
   {
-    "revision": "56e411dd6496de4673ab",
-    "url": "/coalbrass-fashions/static/js/2.7e41f015.chunk.js"
+    "revision": "deb6f313489cc0c498bc",
+    "url": "/coalbrass-fashions/static/js/2.ab781a13.chunk.js"
   },
   {
-    "revision": "5ac48c47bb3912b14c2d8de4f56d5ae8",
-    "url": "/coalbrass-fashions/static/js/2.7e41f015.chunk.js.LICENSE.txt"
+    "revision": "3453b8997016469371284a28c0e873e2",
+    "url": "/coalbrass-fashions/static/js/2.ab781a13.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "6cf0ff137b8a450941f0",
-    "url": "/coalbrass-fashions/static/js/main.db6d72a3.chunk.js"
+    "revision": "2274ef6021a0c46a68b7",
+    "url": "/coalbrass-fashions/static/js/main.143a9614.chunk.js"
   },
   {
     "revision": "159f7113dcf628f628a9",
@@ -168,6 +168,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/coalbrass-fashions/static/media/logo.5d5d9eef.svg"
   },
   {
+    "revision": "74e023da6b4a90cca570d554f3e17c84",
+    "url": "/coalbrass-fashions/static/media/mask-01.74e023da.jpeg"
+  },
+  {
     "revision": "07c0b7582a8f4140ae00e4ff580f18b8",
     "url": "/coalbrass-fashions/static/media/model.07c0b758.jpg"
   },
@@ -206,6 +210,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "782feb48595060aceca50152d8370764",
     "url": "/coalbrass-fashions/static/media/purse.782feb48.jpg"
+  },
+  {
+    "revision": "436be10645415dec1e92fae69249a67f",
+    "url": "/coalbrass-fashions/static/media/sell-now.436be106.jpg"
   },
   {
     "revision": "dbdda7a63023fc8fd1feb0d7218101eb",
