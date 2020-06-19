@@ -77,8 +77,8 @@ export default class Rebelle extends Component {
           <div className="lower-header">
             <div>
               <p className="phone-no">
-                <i id="font-awesome" className="fa fa-phone"></i> +91
-                8356-926559
+                <i id="font-awesome" className="fa fa-phone"></i> +91-90043
+                71144
               </p>
               <div className="search-div">
                 <form className="header-search-form">
