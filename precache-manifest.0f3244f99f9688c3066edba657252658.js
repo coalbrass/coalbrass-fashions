@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "c0b4e1771268327cc9a5b349147b597b",
+    "revision": "6f0d747f7e5dcf1869fafd9c5e64d028",
     "url": "/coalbrass-fashions/index.html"
   },
   {
-    "revision": "83e0ddad7df38bacf423",
+    "revision": "4354d3e26234c774f305",
     "url": "/coalbrass-fashions/static/css/main.5f361e03.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/coalbrass-fashions/static/js/2.a925df73.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "83e0ddad7df38bacf423",
-    "url": "/coalbrass-fashions/static/js/main.b18364c9.chunk.js"
+    "revision": "4354d3e26234c774f305",
+    "url": "/coalbrass-fashions/static/js/main.865b17e5.chunk.js"
   },
   {
     "revision": "159f7113dcf628f628a9",
