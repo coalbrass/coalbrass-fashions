@@ -129,14 +129,14 @@ export default class Rebelle extends Component {
               </li>
               <li>
                 <a href="#">Trending</a>
-                <ul className="sub-menu">
+                {/* <ul className="sub-menu">
                   <li>
                     <a href="#">Sachin</a>
                   </li>
                   <li>
                     <a href="#">Saachi</a>
                   </li>
-                </ul>
+                </ul> */}
               </li>
               <li>
                 <a href="#">
@@ -597,7 +597,7 @@ export default class Rebelle extends Component {
                   </div>
                   <div class="con-info">
                     <span>P.</span>
-                    <p>+91 8356-926559</p>
+                    <p>+91 90043 71144</p>
                   </div>
                   <div class="con-info">
                     <span>E.</span>
