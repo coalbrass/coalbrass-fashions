@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "4edec1b9fbf54c83afebe97480ba6791",
+    "revision": "14cb263a85967a71d37528de7a7962e1",
     "url": "/coalbrass-fashions/index.html"
   },
   {
-    "revision": "a840dda1a2e6f7ef5347",
+    "revision": "885772930a4050701957",
     "url": "/coalbrass-fashions/static/css/2.de35771f.chunk.css"
   },
   {
-    "revision": "42bb786c11db558dca94",
+    "revision": "d9f8c5d8297667fd1c05",
     "url": "/coalbrass-fashions/static/css/main.f4e32c08.chunk.css"
   },
   {
-    "revision": "a840dda1a2e6f7ef5347",
-    "url": "/coalbrass-fashions/static/js/2.e5de0d35.chunk.js"
+    "revision": "885772930a4050701957",
+    "url": "/coalbrass-fashions/static/js/2.51066bcb.chunk.js"
   },
   {
     "revision": "3453b8997016469371284a28c0e873e2",
-    "url": "/coalbrass-fashions/static/js/2.e5de0d35.chunk.js.LICENSE.txt"
+    "url": "/coalbrass-fashions/static/js/2.51066bcb.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "42bb786c11db558dca94",
-    "url": "/coalbrass-fashions/static/js/main.571c492e.chunk.js"
+    "revision": "d9f8c5d8297667fd1c05",
+    "url": "/coalbrass-fashions/static/js/main.96c1a6e1.chunk.js"
   },
   {
     "revision": "159f7113dcf628f628a9",

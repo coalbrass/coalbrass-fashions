@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/coalbrass-fashions/static/css/main.f4e32c08.chunk.css",
-    "main.js": "/coalbrass-fashions/static/js/main.571c492e.chunk.js",
-    "main.js.map": "/coalbrass-fashions/static/js/main.571c492e.chunk.js.map",
+    "main.js": "/coalbrass-fashions/static/js/main.96c1a6e1.chunk.js",
+    "main.js.map": "/coalbrass-fashions/static/js/main.96c1a6e1.chunk.js.map",
     "runtime-main.js": "/coalbrass-fashions/static/js/runtime-main.f45e60b2.js",
     "runtime-main.js.map": "/coalbrass-fashions/static/js/runtime-main.f45e60b2.js.map",
     "static/css/2.de35771f.chunk.css": "/coalbrass-fashions/static/css/2.de35771f.chunk.css",
-    "static/js/2.e5de0d35.chunk.js": "/coalbrass-fashions/static/js/2.e5de0d35.chunk.js",
-    "static/js/2.e5de0d35.chunk.js.map": "/coalbrass-fashions/static/js/2.e5de0d35.chunk.js.map",
+    "static/js/2.51066bcb.chunk.js": "/coalbrass-fashions/static/js/2.51066bcb.chunk.js",
+    "static/js/2.51066bcb.chunk.js.map": "/coalbrass-fashions/static/js/2.51066bcb.chunk.js.map",
     "index.html": "/coalbrass-fashions/index.html",
-    "precache-manifest.c8e775d003910cd0ec98fdf8ac4a7d30.js": "/coalbrass-fashions/precache-manifest.c8e775d003910cd0ec98fdf8ac4a7d30.js",
+    "precache-manifest.5b8f562cd478e2dea81c08f8081707dc.js": "/coalbrass-fashions/precache-manifest.5b8f562cd478e2dea81c08f8081707dc.js",
     "service-worker.js": "/coalbrass-fashions/service-worker.js",
     "static/css/2.de35771f.chunk.css.map": "/coalbrass-fashions/static/css/2.de35771f.chunk.css.map",
     "static/css/main.f4e32c08.chunk.css.map": "/coalbrass-fashions/static/css/main.f4e32c08.chunk.css.map",
-    "static/js/2.e5de0d35.chunk.js.LICENSE.txt": "/coalbrass-fashions/static/js/2.e5de0d35.chunk.js.LICENSE.txt",
+    "static/js/2.51066bcb.chunk.js.LICENSE.txt": "/coalbrass-fashions/static/js/2.51066bcb.chunk.js.LICENSE.txt",
     "static/media/1.jpg": "/coalbrass-fashions/static/media/1.d64b6e86.jpg",
     "static/media/10.jpg": "/coalbrass-fashions/static/media/10.6380cde6.jpg",
     "static/media/11.jpg": "/coalbrass-fashions/static/media/11.566cce1e.jpg",
@@ -66,8 +66,8 @@
   "entrypoints": [
     "static/js/runtime-main.f45e60b2.js",
     "static/css/2.de35771f.chunk.css",
-    "static/js/2.e5de0d35.chunk.js",
+    "static/js/2.51066bcb.chunk.js",
     "static/css/main.f4e32c08.chunk.css",
-    "static/js/main.571c492e.chunk.js"
+    "static/js/main.96c1a6e1.chunk.js"
   ]
 }
