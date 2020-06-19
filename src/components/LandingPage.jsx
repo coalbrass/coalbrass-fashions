@@ -639,12 +639,12 @@ export default class LandingPage extends Component {
               </p>
             </div>
           </div>
-          <Link to="/" style={{ color: "#fff" }}>
+          {/* <Link to="/" style={{ color: "#fff" }}>
             <p>Goto option 1</p>
           </Link>
           <Link to="/beta3" style={{ color: "#fff" }}>
             <p>Goto option 3</p>
-          </Link>
+          </Link> */}
         </section>
       </div>
     );

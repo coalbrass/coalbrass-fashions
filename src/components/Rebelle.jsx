@@ -643,12 +643,12 @@ export default class Rebelle extends Component {
               <p class="copyright">
                 Copyright &copy; 2020 | All rights reserved
               </p>
-              <Link to="/beta2" style={{ color: "#fff" }}>
+              {/* <Link to="/beta2" style={{ color: "#fff" }}>
                 <p>Goto option 2</p>
               </Link>
               <Link to="/beta3" style={{ color: "#fff" }}>
                 <p>Goto option 3</p>
-              </Link>
+              </Link> */}
             </div>
           </div>
         </section>
