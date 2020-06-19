@@ -1,5 +1,6 @@
 import React, { Component } from "react";
 import Slider from "react-slick";
+import { Link } from "react-router-dom";
 import "../assets/styles/Rebelle.css";
 import {
   summer,
@@ -642,6 +643,12 @@ export default class Rebelle extends Component {
               <p class="copyright">
                 Copyright &copy; 2020 | All rights reserved
               </p>
+              <Link to="/beta2" style={{ color: "#fff" }}>
+                <p>Goto option 2</p>
+              </Link>
+              <Link to="/beta3" style={{ color: "#fff" }}>
+                <p>Goto option 3</p>
+              </Link>
             </div>
           </div>
         </section>

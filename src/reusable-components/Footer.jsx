@@ -1,5 +1,6 @@
 import React, { Component } from "react";
 import "../assets/styles/Footer.css";
+import { Link } from "react-router-dom";
 export default class Footer extends Component {
   render() {
     return (
@@ -76,6 +77,12 @@ export default class Footer extends Component {
             <span> 2020 Coalbrass Fashions LLP. All Rights Reserved</span>
           </div>
         </section>
+        <Link to="/" style={{ color: "#424242" }}>
+          <p>Goto option 1</p>
+        </Link>
+        <Link to="/beta2" style={{ color: "#424242" }}>
+          <p>Goto option 2</p>
+        </Link>
       </div>
     );
   }
