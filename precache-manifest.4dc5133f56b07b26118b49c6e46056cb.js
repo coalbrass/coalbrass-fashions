@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f180f891a450e0def97ee0b222a493d1",
+    "revision": "8a789c849392a08a3f12f270da20f7b6",
     "url": "/coalbrass-fashions/index.html"
   },
   {
-    "revision": "deb6f313489cc0c498bc",
-    "url": "/coalbrass-fashions/static/css/2.c1ae44fe.chunk.css"
+    "revision": "a840dda1a2e6f7ef5347",
+    "url": "/coalbrass-fashions/static/css/2.de35771f.chunk.css"
   },
   {
-    "revision": "2274ef6021a0c46a68b7",
-    "url": "/coalbrass-fashions/static/css/main.2f40227b.chunk.css"
+    "revision": "c0de991f1bc409b0aa74",
+    "url": "/coalbrass-fashions/static/css/main.f4e32c08.chunk.css"
   },
   {
-    "revision": "deb6f313489cc0c498bc",
-    "url": "/coalbrass-fashions/static/js/2.ab781a13.chunk.js"
+    "revision": "a840dda1a2e6f7ef5347",
+    "url": "/coalbrass-fashions/static/js/2.e5de0d35.chunk.js"
   },
   {
     "revision": "3453b8997016469371284a28c0e873e2",
-    "url": "/coalbrass-fashions/static/js/2.ab781a13.chunk.js.LICENSE.txt"
+    "url": "/coalbrass-fashions/static/js/2.e5de0d35.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "2274ef6021a0c46a68b7",
-    "url": "/coalbrass-fashions/static/js/main.143a9614.chunk.js"
+    "revision": "c0de991f1bc409b0aa74",
+    "url": "/coalbrass-fashions/static/js/main.ca89f9f6.chunk.js"
   },
   {
     "revision": "159f7113dcf628f628a9",
@@ -154,6 +154,26 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "6897d4161181f9eb379678089b2c61bb",
     "url": "/coalbrass-fashions/static/media/clothing-shop.6897d416.jpg"
+  },
+  {
+    "revision": "674f50d287a8c48dc19ba404d20fe713",
+    "url": "/coalbrass-fashions/static/media/fontawesome-webfont.674f50d2.eot"
+  },
+  {
+    "revision": "912ec66d7572ff821749319396470bde",
+    "url": "/coalbrass-fashions/static/media/fontawesome-webfont.912ec66d.svg"
+  },
+  {
+    "revision": "af7ae505a9eed503f8b8e6982036873e",
+    "url": "/coalbrass-fashions/static/media/fontawesome-webfont.af7ae505.woff2"
+  },
+  {
+    "revision": "b06871f281fee6b241d60582ae9369b9",
+    "url": "/coalbrass-fashions/static/media/fontawesome-webfont.b06871f2.ttf"
+  },
+  {
+    "revision": "fee66e712a8a08eef5805a46892932ad",
+    "url": "/coalbrass-fashions/static/media/fontawesome-webfont.fee66e71.woff"
   },
   {
     "revision": "d4b791a410be70adea948d8205b68a11",
