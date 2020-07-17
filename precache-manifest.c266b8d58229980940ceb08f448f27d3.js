@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "95bf19da815fca77e90237bd89484624",
+    "revision": "46524cd869868e1513295d4e850d2d82",
     "url": "/coalbrass-fashions/index.html"
   },
   {
-    "revision": "885772930a4050701957",
+    "revision": "fb6ad3c1b0c315064850",
     "url": "/coalbrass-fashions/static/css/2.de35771f.chunk.css"
   },
   {
-    "revision": "3cf07d20db1c65c93c27",
-    "url": "/coalbrass-fashions/static/css/main.f4e32c08.chunk.css"
+    "revision": "85608f5ab70acc52e984",
+    "url": "/coalbrass-fashions/static/css/main.c08755e6.chunk.css"
   },
   {
-    "revision": "885772930a4050701957",
-    "url": "/coalbrass-fashions/static/js/2.51066bcb.chunk.js"
+    "revision": "fb6ad3c1b0c315064850",
+    "url": "/coalbrass-fashions/static/js/2.250ebb2e.chunk.js"
   },
   {
     "revision": "3453b8997016469371284a28c0e873e2",
-    "url": "/coalbrass-fashions/static/js/2.51066bcb.chunk.js.LICENSE.txt"
+    "url": "/coalbrass-fashions/static/js/2.250ebb2e.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "3cf07d20db1c65c93c27",
-    "url": "/coalbrass-fashions/static/js/main.2c97d60a.chunk.js"
+    "revision": "85608f5ab70acc52e984",
+    "url": "/coalbrass-fashions/static/js/main.aea15156.chunk.js"
   },
   {
     "revision": "159f7113dcf628f628a9",
@@ -74,6 +74,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "ddc9d2c4e88822c5cb560950adc909df",
     "url": "/coalbrass-fashions/static/media/9.ddc9d2c4.jpg"
+  },
+  {
+    "revision": "f65323540ea1dd0c2c7dff6f01448470",
+    "url": "/coalbrass-fashions/static/media/Razorpay-logo.f6532354.jpg"
   },
   {
     "revision": "954178b0b66a2f168281ecbc1329df1f",
@@ -188,6 +192,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/coalbrass-fashions/static/media/logo.5d5d9eef.svg"
   },
   {
+    "revision": "ad88109286d650f4cdfea587bb536821",
+    "url": "/coalbrass-fashions/static/media/logo.ad881092.png"
+  },
+  {
     "revision": "74e023da6b4a90cca570d554f3e17c84",
     "url": "/coalbrass-fashions/static/media/mask-01.74e023da.jpeg"
   },
@@ -228,6 +236,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/coalbrass-fashions/static/media/new.fdeafaf4.jpg"
   },
   {
+    "revision": "acce38ed0d4e467eeef8983d8f420b62",
+    "url": "/coalbrass-fashions/static/media/og.acce38ed.jpg"
+  },
+  {
     "revision": "782feb48595060aceca50152d8370764",
     "url": "/coalbrass-fashions/static/media/purse.782feb48.jpg"
   },
@@ -258,5 +270,9 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "350850bf7b13b4647d61b98d51f0d016",
     "url": "/coalbrass-fashions/static/media/summer.350850bf.jpg"
+  },
+  {
+    "revision": "0894941516139a2c8723000fab98b469",
+    "url": "/coalbrass-fashions/static/media/thirty.08949415.PNG"
   }
 ]);

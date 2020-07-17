@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/coalbrass-fashions/static/css/main.f4e32c08.chunk.css",
-    "main.js": "/coalbrass-fashions/static/js/main.2c97d60a.chunk.js",
-    "main.js.map": "/coalbrass-fashions/static/js/main.2c97d60a.chunk.js.map",
+    "main.css": "/coalbrass-fashions/static/css/main.c08755e6.chunk.css",
+    "main.js": "/coalbrass-fashions/static/js/main.aea15156.chunk.js",
+    "main.js.map": "/coalbrass-fashions/static/js/main.aea15156.chunk.js.map",
     "runtime-main.js": "/coalbrass-fashions/static/js/runtime-main.f45e60b2.js",
     "runtime-main.js.map": "/coalbrass-fashions/static/js/runtime-main.f45e60b2.js.map",
     "static/css/2.de35771f.chunk.css": "/coalbrass-fashions/static/css/2.de35771f.chunk.css",
-    "static/js/2.51066bcb.chunk.js": "/coalbrass-fashions/static/js/2.51066bcb.chunk.js",
-    "static/js/2.51066bcb.chunk.js.map": "/coalbrass-fashions/static/js/2.51066bcb.chunk.js.map",
+    "static/js/2.250ebb2e.chunk.js": "/coalbrass-fashions/static/js/2.250ebb2e.chunk.js",
+    "static/js/2.250ebb2e.chunk.js.map": "/coalbrass-fashions/static/js/2.250ebb2e.chunk.js.map",
     "index.html": "/coalbrass-fashions/index.html",
-    "precache-manifest.cd137e9fd51f7cdeab6b6297c8f057cd.js": "/coalbrass-fashions/precache-manifest.cd137e9fd51f7cdeab6b6297c8f057cd.js",
+    "precache-manifest.c266b8d58229980940ceb08f448f27d3.js": "/coalbrass-fashions/precache-manifest.c266b8d58229980940ceb08f448f27d3.js",
     "service-worker.js": "/coalbrass-fashions/service-worker.js",
     "static/css/2.de35771f.chunk.css.map": "/coalbrass-fashions/static/css/2.de35771f.chunk.css.map",
-    "static/css/main.f4e32c08.chunk.css.map": "/coalbrass-fashions/static/css/main.f4e32c08.chunk.css.map",
-    "static/js/2.51066bcb.chunk.js.LICENSE.txt": "/coalbrass-fashions/static/js/2.51066bcb.chunk.js.LICENSE.txt",
+    "static/css/main.c08755e6.chunk.css.map": "/coalbrass-fashions/static/css/main.c08755e6.chunk.css.map",
+    "static/js/2.250ebb2e.chunk.js.LICENSE.txt": "/coalbrass-fashions/static/js/2.250ebb2e.chunk.js.LICENSE.txt",
     "static/media/1.jpg": "/coalbrass-fashions/static/media/1.d64b6e86.jpg",
     "static/media/10.jpg": "/coalbrass-fashions/static/media/10.6380cde6.jpg",
     "static/media/11.jpg": "/coalbrass-fashions/static/media/11.566cce1e.jpg",
@@ -26,6 +26,7 @@
     "static/media/7.jpg": "/coalbrass-fashions/static/media/7.4f9b9130.jpg",
     "static/media/8.jpg": "/coalbrass-fashions/static/media/8.576843b5.jpg",
     "static/media/9.jpg": "/coalbrass-fashions/static/media/9.ddc9d2c4.jpg",
+    "static/media/Razorpay-logo.jpg": "/coalbrass-fashions/static/media/Razorpay-logo.f6532354.jpg",
     "static/media/bag.jpg": "/coalbrass-fashions/static/media/bag.954178b0.jpg",
     "static/media/banner-1.jpg": "/coalbrass-fashions/static/media/banner-1.d3b8382f.jpg",
     "static/media/banner-2.jpg": "/coalbrass-fashions/static/media/banner-2.53c4054b.jpg",
@@ -50,6 +51,7 @@
     "static/media/Rebelle.css": "/coalbrass-fashions/static/media/sell-now.436be106.jpg",
     "static/media/img2.jpg": "/coalbrass-fashions/static/media/img2.ab5c906b.jpg",
     "static/media/logo.svg": "/coalbrass-fashions/static/media/logo.5d5d9eef.svg",
+    "static/media/logo.png": "/coalbrass-fashions/static/media/logo.ad881092.png",
     "static/media/model.jpg": "/coalbrass-fashions/static/media/model.07c0b758.jpg",
     "static/media/model2.jpg": "/coalbrass-fashions/static/media/model2.afdb531c.jpg",
     "static/media/model3.jpg": "/coalbrass-fashions/static/media/model3.f1d7448a.jpg",
@@ -59,15 +61,17 @@
     "static/media/model7.jpg": "/coalbrass-fashions/static/media/model7.337f6097.jpg",
     "static/media/model8.jpg": "/coalbrass-fashions/static/media/model8.e8e1b88a.jpg",
     "static/media/new.jpg": "/coalbrass-fashions/static/media/new.fdeafaf4.jpg",
+    "static/media/og.jpg": "/coalbrass-fashions/static/media/og.acce38ed.jpg",
     "static/media/purse.jpg": "/coalbrass-fashions/static/media/purse.782feb48.jpg",
     "static/media/skirt.jpg": "/coalbrass-fashions/static/media/skirt.dbdda7a6.jpg",
-    "static/media/summer.jpg": "/coalbrass-fashions/static/media/summer.350850bf.jpg"
+    "static/media/summer.jpg": "/coalbrass-fashions/static/media/summer.350850bf.jpg",
+    "static/media/thirty.PNG": "/coalbrass-fashions/static/media/thirty.08949415.PNG"
   },
   "entrypoints": [
     "static/js/runtime-main.f45e60b2.js",
     "static/css/2.de35771f.chunk.css",
-    "static/js/2.51066bcb.chunk.js",
-    "static/css/main.f4e32c08.chunk.css",
-    "static/js/main.2c97d60a.chunk.js"
+    "static/js/2.250ebb2e.chunk.js",
+    "static/css/main.c08755e6.chunk.css",
+    "static/js/main.aea15156.chunk.js"
   ]
 }

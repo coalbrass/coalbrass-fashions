@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/coalbrass-fashions/precache-manifest.cd137e9fd51f7cdeab6b6297c8f057cd.js"
+  "/coalbrass-fashions/precache-manifest.c266b8d58229980940ceb08f448f27d3.js"
 );
 
 self.addEventListener('message', (event) => {
