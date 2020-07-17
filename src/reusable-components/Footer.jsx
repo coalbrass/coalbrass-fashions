@@ -1,6 +1,7 @@
 import React, { Component } from "react";
 import "../assets/styles/Footer.css";
 import { Link } from "react-router-dom";
+import { logo, visa, razorpay } from "../assets/index";
 export default class Footer extends Component {
   render() {
     return (
@@ -10,19 +11,13 @@ export default class Footer extends Component {
             <div className="footer-grid">
               <div>
                 <a href="#header">
-                  <img
-                    className="logo"
-                    src="http://coalbrass.com/images/logo.png"
-                  />
+                  <img className="logo" src={logo} />
                 </a>
 
                 <p className="footer-title">WE ACCEPT</p>
                 <p className="footer-text">
-                  <img src="http://coalbrass.com/images/visa.png" />
-                  <img
-                    src="http://coalbrass.com/images/Razorpay-logo.jpg"
-                    className="og-icon"
-                  />
+                  <img src={visa} />
+                  <img src={razorpay} className="og-icon" />
                 </p>
               </div>
               <div>

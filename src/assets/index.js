@@ -1,3 +1,4 @@
+import logo from "./images/logo.png";
 import banner1 from "./images/banner1.jpg";
 import banner2 from "./images/banner2.jpg";
 import banner3 from "./images/banner3.jpg";
@@ -50,8 +51,14 @@ import icon2 from "./icons/icon-2.png";
 import icon3 from "./icons/icon-3.png";
 import cards from "./images/cards.png";
 import mastercard from "./images/mastercard.png";
+import visa from "./icons/visa.png";
 import maestro from "./icons/maestro.png";
+import og from "./icons/og.jpg";
+import razorpay from "./icons/Razorpay-logo.jpg";
+import freeShipping from "./icons/free-shipping.png";
+import thirtyDays from "./icons/thirty.PNG";
 export {
+  logo,
   banner1,
   banner2,
   banner3,
@@ -103,5 +110,10 @@ export {
   model7,
   model8,
   clothingShop,
-  banner11
+  banner11,
+  visa,
+  og,
+  razorpay,
+  freeShipping,
+  thirtyDays
 };
